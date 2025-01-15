@@ -1,1 +1,1 @@
-export let baseUrl = "http://localhost:1337/";
+export let baseUrl = process.env.REACT_APP_BASEURL;
