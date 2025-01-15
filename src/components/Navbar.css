@@ -1,0 +1,14 @@
+.Navbar{
+    display: flex;
+    height: 40px;
+    width: 100%;
+    position:sticky;
+    background-color: black;
+   top: 0px;
+  align-items: center;
+
+  justify-content: center;
+}
+h2{
+    color:aliceblue
+}
